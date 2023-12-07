@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "cc206_money_manager" "\0"
+            VALUE "FileDescription", "managment" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "cc206_money_manager" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "cc206_money_manager.exe" "\0"
-            VALUE "ProductName", "cc206_money_manager" "\0"
+            VALUE "InternalName", "managment" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "managment.exe" "\0"
+            VALUE "ProductName", "managment" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
