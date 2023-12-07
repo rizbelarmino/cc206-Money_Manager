@@ -1,6 +1,6 @@
 {
-    "name": "cc206_money_manager",
-    "short_name": "cc206_money_manager",
+    "name": "managment",
+    "short_name": "managment",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
